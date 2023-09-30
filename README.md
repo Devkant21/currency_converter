@@ -1,4 +1,4 @@
-# flp1
+# Currency Converter
 
 A new Flutter project.
 
